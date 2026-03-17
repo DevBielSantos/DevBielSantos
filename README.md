@@ -1,8 +1,3 @@
-<div
-  <p align="center">
-  <img src="https://www.deviantart.com/8bitdarkart/art/Mario-On-His-Computer-GIF-888773460" width="350"/>
-  </p>
-</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />

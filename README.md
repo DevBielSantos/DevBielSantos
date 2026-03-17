@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">👨‍💻 Olá! Sou Gabriel Santos (Biel)<br><br>🎓 Estudante de Engenharia de Software (1º semestre)<br> Focado em desenvolvimento Back-end com Java<br><br> Atualmente estudando:<br>- Programação Orientada a Objetos (POO)<br>- Tratamento de exceções<br>- Estrutura de dados<br>- Desenvolvimento de APIs (futuro próximo)<br><br> Em constante evolução, buscando minha primeira oportunidade como dev back-end.</p>
+<p align="center">👨‍💻 Olá! Sou Gabriel Santos <br><br>🎓 Estudante de Engenharia de Software (1º semestre)<br> Focado em desenvolvimento Back-end com Java<br><br> Atualmente estudando:<br>- Programação Orientada a Objetos (POO)<br>- Tratamento de exceções<br>- Estrutura de dados<br>- Desenvolvimento de APIs (futuro próximo)<br><br> Em constante evolução, buscando minha primeira oportunidade como dev back-end.</p>
 
 ###
 
